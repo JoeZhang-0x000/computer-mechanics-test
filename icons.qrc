@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/edit.png</file>
+        <file>icon/home.png</file>
+        <file>icon/main.jpeg</file>
+        <file>icon/rotateL.png</file>
+        <file>icon/rotateR.png</file>
+        <file>icon/search.png</file>
+        <file>icon/select.png</file>
+    </qresource>
+</RCC>
